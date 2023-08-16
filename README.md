@@ -5,7 +5,7 @@
 )](https://www.linkedin.com/in/fab-monteiro/)
 [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabricinhozzz.github.io/portfolio/)
 
-![fabricinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabricinhozzz&show_icons=true&theme=tokyonight)
+![fabricinho's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fabricinhozzz&show_icons=true&theme=tokyonight)
 
 
 ## Tecnologias que sei utilizar
