@@ -1,8 +1,7 @@
 
 ## Oi! Me chamo Fabricio Vieira Monteiro 💕
 Sou apaixonado por tecnologia, programação
-(especialmente pela linguagem Ruby, e seu framework 
-mais conhecido, Ruby on Rails),
+(no momento estudo e gosto bastante de Java),
 Persona 5 e Star Wars!!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
