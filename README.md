@@ -1,8 +1,7 @@
 
 ## Oi! Me chamo Fabricio Vieira Monteiro 💕
-Sou apaixonado por tecnologia, programação
-(no momento estudo e gosto bastante de Java),
-Persona 5 e Star Wars!!
+Sou apaixonado por tecnologia, programação,
+Persona 5, The Legend of Zelda e Star Wars!!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/fab-monteiro/)
