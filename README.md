@@ -2,10 +2,6 @@
 Sou apaixonado por tecnologia, programação,
 Persona 5, The Legend of Zelda e Star Wars!!
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/fab-monteiro/)
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabricinhozzz.github.io/portfolio/)
-
 
 ## Skills
 ![fabricinho's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fabricinhozzz&show_icons=true&theme=vision-friendly-dark) 
